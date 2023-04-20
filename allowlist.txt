@@ -1,0 +1,10 @@
+!
+! Title: Selleronom Allow List
+! Description: Domains that should not be blocked
+! Homepage: https://github.com/selleronom/dns-allow-list
+! Last modified: 2023-04-20
+!
+! Version: 1
+!
+@@||track.adform.net^$important
+@@||unityads.unity3d.com^$important
